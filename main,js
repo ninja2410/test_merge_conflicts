@@ -3,7 +3,7 @@ function main()
     console.log("this is the main");   
 }
 
-function create()
+function create(id)
 {
-    console.log("thing created");
+    console.log("thing created "+id);
 }
