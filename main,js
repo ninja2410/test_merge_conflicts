@@ -5,5 +5,11 @@ function main()
 
 function create()
 {
+    let valid = false;
     console.log("thing created");
+}
+
+function feature()
+{
+    console.log("its a new feature");
 }
