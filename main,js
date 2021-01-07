@@ -3,7 +3,7 @@ function main()
     console.log("this is the main");   
 }
 
-function create()
+function create(id)
 {
     let valid = false;
     console.log("thing created");
