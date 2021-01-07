@@ -9,7 +9,7 @@ function create()
     console.log("thing created");
 }
 
-function feature()
+function feature(thing)
 {
-    console.log("its a new feature");
+    console.log("its a new feature" + thing);
 }
